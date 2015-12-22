@@ -7,6 +7,9 @@ Program pyhton dilinde yazılmıştır.
 Terminalden bu komut satırını girerek çalıştırabilirsiniz
 
   python caesar.py
+  
   What is your plaintext? Merhaba Caesar Cipher
+  
   What is your shift? 10
+  
   Mobrklk Ckockb Cszrob
