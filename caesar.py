@@ -14,4 +14,5 @@ def caesar(plaintext, shift):
 	table = string.maketrans(alphabet, shifted_alphabet)
 	return plaintext.translate(table)
 
-print caesar(plainText, shift)
+print caesar(plainText, shift)	#sifreleme
+print caesar(caesar(plainText, shift), -shift)	#desifreleme
